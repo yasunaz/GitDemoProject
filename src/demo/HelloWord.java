@@ -18,6 +18,7 @@ public class HelloWord {
 			Thread.sleep(second * 2000);
 			System.out.println("Pausing rightn ow...");
 			System.out.println("\n");
+			// something here
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
