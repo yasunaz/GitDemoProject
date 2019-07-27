@@ -4,9 +4,10 @@ public class HelloWord {
 	
 	// Where CPU reads our code 
 	public static void main(String[] args) {
-		for(int i = 0; i < 10; i++) {
+		for(int i = 0; i < 30; i++) {
 			System.out.println(i);
 			pause(1);
+			sayWhat();
 		}
 	}
 	
@@ -18,6 +19,10 @@ public class HelloWord {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		// some comment here
+	}
+
+	// what to say
+	public static void sayWhat() {
+		System.out.println("WHAAAAAT");
 	}
 }
