@@ -15,7 +15,8 @@ public class HelloWord {
 	// Method that pauses entire program for specified second
 	public static void pause(int second) {
 		try {
-			Thread.sleep(second * 1000); 
+			Thread.sleep(second * 2000);
+			System.out.println("Pausing rightn ow...");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
