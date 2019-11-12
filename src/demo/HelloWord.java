@@ -21,6 +21,8 @@ public class HelloWord {
 			pause(1);
 			sayWhat();
 		}
+
+		System.out.println("Hello Guglgina");
 	}
 	
 	
