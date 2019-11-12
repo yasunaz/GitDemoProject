@@ -9,6 +9,18 @@ public class HelloWord {
 			pause(1);
 			sayWhat();
 		}
+
+		for(int i = 0; i < 30; i++) {
+			System.out.println(i);
+			pause(1);
+			sayWhat();
+		}
+
+		for(int i = 0; i < 30; i++) {
+			System.out.println(i);
+			pause(1);
+			sayWhat();
+		}
 	}
 	
 	
