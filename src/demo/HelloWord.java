@@ -11,8 +11,10 @@ public class HelloWord {
 		}
 
 		for(int i = 0; i < 30; i++) {
+			sayWhat();
 			System.out.println("Second for loop it is");
 			pause(1);
+			sayWhat();
 			sayWhat();
 		}
 
