@@ -27,5 +27,6 @@ public class HelloWord {
 	// what to say
 	public static void sayWhat() {
 		System.out.println("WHAAAAAT");
+		System.out.println("WHAAAAAT");
 	}
 }
