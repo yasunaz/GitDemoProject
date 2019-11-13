@@ -9,4 +9,8 @@ public class HelloGit {
     public void smile(){
         int age=10;
     }
+
+    public void cry(){
+        int age = 4;
+    }
 }
