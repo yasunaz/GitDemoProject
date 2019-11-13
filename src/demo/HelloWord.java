@@ -48,12 +48,6 @@ public class HelloWord {
 		String name = "Nijat";
 	}
 
-	public void second(){
-		String money = 10;
-		
-	}
 
-	public void second() {
-		System.out.println("time is money");
-	}
+
 }
