@@ -21,5 +21,7 @@ public class HelloGit {
     public void angry() {
         while(true)
             System.out.println("angry");
+        int d=100;
     }
+}
 }
