@@ -47,4 +47,8 @@ public class HelloWord {
 	public void conflict() {
 		System.out.println("this will be a conflict");
 	}
+
+	public void second() {
+		System.out.println("time is money");
+	}
 }
