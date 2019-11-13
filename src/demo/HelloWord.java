@@ -10,9 +10,12 @@ public class HelloWord {
 			sayWhat();
 		}
 
+		for(int i = 0; i < 30; i++) {
+			System.out.println(i);
+			pause(1);
+			sayWhat();
+		}
 
-		if(true)
-            System.out.println("Hello Gulgina");
 
 		for(int i = 0; i < 30; i++) {
 			System.out.println(i);
