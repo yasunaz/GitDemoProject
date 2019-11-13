@@ -47,4 +47,9 @@ public class HelloWord {
 	public void conflict() {
 		String name = "Nijat";
 	}
+
+	public void second(){
+		int time =10;
+		
+	}
 }
