@@ -10,11 +10,8 @@ public class HelloWord {
 			sayWhat();
 		}
 
-		for(int i = 0; i < 30; i++) {
-			System.out.println(i);
-			pause(1);
-			sayWhat();
-		}
+		if(true)
+            System.out.println("hands down this is if");
 
 
 		for(int i = 0; i < 30; i++) {
