@@ -52,4 +52,8 @@ public class HelloWord {
 		int time =10;
 		
 	}
+
+	public void second() {
+		System.out.println("time is money");
+	}
 }
