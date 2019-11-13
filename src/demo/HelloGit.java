@@ -15,4 +15,10 @@ public class HelloGit {
             System.out.println("waaaaa");
         }
     }
+
+    public void angry(){
+        int d=100;
+    }
+
+
 }
