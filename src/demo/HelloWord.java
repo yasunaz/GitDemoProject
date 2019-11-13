@@ -43,4 +43,8 @@ public class HelloWord {
 		System.out.println("WHAAAAAT");
 		System.out.println("WHAAAAAT");
 	}
+
+	public void conflict() {
+		System.out.println("this will be a conflict");
+	}
 }
