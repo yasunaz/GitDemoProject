@@ -49,7 +49,7 @@ public class HelloWord {
 	}
 
 	public void second(){
-		int time =10;
+		String money = 10;
 		
 	}
 
