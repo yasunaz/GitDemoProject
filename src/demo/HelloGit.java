@@ -10,7 +10,11 @@ public class HelloGit {
         int age=10;
     }
 
-    public void cry(){
-        int age = 4;
+
+    public void cry() {
+        for(int i =0; i < 10; i++) {
+            System.out.println("waaaaa");
+        }
+
     }
 }
