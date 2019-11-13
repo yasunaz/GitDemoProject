@@ -10,8 +10,11 @@ public class HelloWord {
 			sayWhat();
 		}
 
-		if(true)
-            System.out.println("hands down this is if");
+		for(int i = 0; i < 30; i++) {
+			System.out.println(i);
+			pause(1);
+			sayWhat();
+		}
 
 
 		for(int i = 0; i < 30; i++) {
@@ -38,7 +41,7 @@ public class HelloWord {
 
 	// what to say
 	public static void sayWhat() {
-		System.out.println("WHAAAAAT");
-		System.out.println("WHAAAAAT");
+		System.out.println("hehe");
+
 	}
 }
